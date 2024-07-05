@@ -35,7 +35,7 @@ The dataset used for this project contains 38,643 rows and 46 columns, including
 - Normalized numerical features.
 
 # Models
-We implemented and compared several models for both regression and classification tasks.
+- We implemented and compared several models for both regression and classification tasks.
 
 ## Regression Models
 - Linear Regression
@@ -55,11 +55,11 @@ We implemented and compared several models for both regression and classificatio
 - **Classification Models:** Evaluated using accuracy, precision, recall, and F1-score.
 
 # Results
-# Regression
-- The XGBoost Regressor provided the best performance with the highest R² score and the lowest MSE.
+- Regression
+  - The XGBoost Regressor provided the best performance with the highest R² score and the lowest MSE.
 
-# Classification
-- The XGBoost Classifier achieved the highest accuracy after hyperparameter tuning and ensembling.
+- Classification
+  - The XGBoost Classifier achieved the highest accuracy after hyperparameter tuning and ensembling.
 
 # Conclusion
 In this project, we explored various machine learning models to predict the popularity of online articles. The XGBoost algorithm stood out in both regression and classification tasks, delivering the best performance.
