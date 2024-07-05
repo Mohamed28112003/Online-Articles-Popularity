@@ -1,7 +1,3 @@
-
-
-**Online Articles Popularity Prediction**
-
 # Project Overview
 The objective of this project is to predict the popularity of online articles using machine learning techniques. We have built models for both regression (to predict the number of shares) and classification (to categorize articles into popularity classes).
 
