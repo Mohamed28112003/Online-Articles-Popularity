@@ -68,6 +68,3 @@ In this project, we explored various machine learning models to predict the popu
 - [Milestone 1 Report](./Milestone1 Report.pdf)
 - [Milestone 2 Report](./Milestone2 Report.pdf)
 
----
-
-Feel free to modify the structure and contents as per your specific project requirements. Let me know if you need any more details or changes!
