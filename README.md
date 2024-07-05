@@ -1,6 +1,5 @@
 
 
-# Project Title
 **Online Articles Popularity Prediction**
 
 # Project Overview
@@ -65,6 +64,6 @@ The dataset used for this project contains 38,643 rows and 46 columns, including
 In this project, we explored various machine learning models to predict the popularity of online articles. The XGBoost algorithm stood out in both regression and classification tasks, delivering the best performance.
 
 # References
-- [Milestone 1 Report](./Milestone1 Report.pdf)
+- [Milestone 1 Report]([./Milestone1 Report.pdf](https://github.com/Mohamed28112003/Online-Articles-Popularity/blob/master/Milestone1%20Report.pdf))
 - [Milestone 2 Report](./Milestone2 Report.pdf)
 
